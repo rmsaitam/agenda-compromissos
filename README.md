@@ -21,8 +21,8 @@ Linux: _/var/www/html/agenda-compromissos_
 Windows: _c:/xampp/htdocs/agenda-compromissos_
 
 4. Crie o banco de dados chamado agendacompromissos
-No terminal do mysql digite:
 
+No terminal do mysql digite:
 ```
 CREATE DATABASE agendacompromissos charset set utf8;
 ```
