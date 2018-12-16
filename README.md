@@ -1,7 +1,7 @@
 # agenda-compromissos
 Agenda de compromissos
 
-Procedimentos de configuração para execução
+Procedimentos de configuração para execução no ambiente local
 
 1. Forka o repositório
 2. Clona o repositório forkado
