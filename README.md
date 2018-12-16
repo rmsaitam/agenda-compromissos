@@ -109,8 +109,9 @@ Editar o arquivo _C:\xampp\apache\conf\extra\httpd-vhosts.conf_
 </VirtualHost>
 ```
 
-**Adicionar o Vhost**
-No GNU/Linux editar o arquivo: _/etc/hosts_
+**Adicionar o Vhost no arquivo hosts**
+
+No GNU/Linux qualquer distro, editar o arquivo: _/etc/hosts_
 ```
 127.0.0.1 agenda.localhost
 ```
