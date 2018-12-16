@@ -30,7 +30,7 @@ CREATE DATABASE agendacompromissos charset set utf8;
 5. Crie o usuário e aplique o Grantt do usuário
 ```
 CREATE USER `usuario`@`127.0.0.1` IDENTIFIED BY `password`;
-GRANT select, insert, update, delete, create, drop, alter ON .* TO `usuario`@`127.0.0.1` WITH GRANT OPTION; 
+GRANT select, insert, update, delete, create, drop, alter ON agendacompromissos.* TO `usuario`@`127.0.0.1` WITH GRANT OPTION; 
 ```
 
 6. Execute `composer install` 
