@@ -10,13 +10,15 @@ No diretório raiz do Apache
 
 Linux: _/var/www/html_
 
-Windows: _c:/xampp/htdocs_
+Windows com XAMPP: _c:/xampp/htdocs_
 
 `git clone https://github.com/SEU-USUARIO/agenda-compromissos.git`
 
 3. Acesse o diretório do projeto onde fez o clone do projeto
-Linux: /var/www/html/agenda-compromissos
-Windows: c:/xampp/htdocs/agenda-compromissos
+
+Linux: _/var/www/html/agenda-compromissos_
+
+Windows: _c:/xampp/htdocs/agenda-compromissos_
 
 4. Crie o banco de dados chamado agendacompromissos
 
