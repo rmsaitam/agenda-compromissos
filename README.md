@@ -12,7 +12,7 @@ Linux: _/var/www/html_
 
 Windows: _c:/xampp/htdocs_
 
-`git clone https://github.com/USUARIO/agenda-compromissos.git`
+`git clone https://github.com/SEU-USUARIO/agenda-compromissos.git`
 
 3. Acesse o diretório do projeto onde fez o clone do projeto
 Linux: /var/www/html/agenda-compromissos
@@ -121,5 +121,7 @@ No Windows, editar o arquivo _C:\Windows\System32\drivers\etc\hosts_ como Admini
 
 Após seguir corretamente os procedimentos conforme acima, no browser digite http://agenda.localhost 
 No primeiro acesso, cadastra um usuário para pode agendar um evento, é por usuário.
+
+Caso queira fazer melhorias, envie o Pull Request
 
 Feito!
