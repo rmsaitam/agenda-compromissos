@@ -7,8 +7,10 @@ Procedimentos de configuração para execução
 2. Clona o repositório forkado
 
 No diretório raiz do Apache
-Linux: /var/www/html
-Windows: c:/xampp/htdocs
+
+Linux: _/var/www/html_
+
+Windows: _c:/xampp/htdocs_
 
 `git clone https://github.com/USUARIO/agenda-compromissos.git`
 
